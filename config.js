@@ -20,7 +20,7 @@ module.exports = {
   SERVER: process.env.SERVER || 'defeat',
   ALIVE_DATA : process.env.ALIVE_DATA || "_*Hy &sender i am alive now*_\n\n_PLATFORM: &platform_\n_RUNTIME : &runtime_\n\n_. type alive to update your alive message_",
   IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
-  SESSION_ID: process.env.SESSION_ID || 'ZnNneU5_J_A_R_V_I_S_ZcTU=',
+  SESSION_ID: process.env.SESSION_ID || 'Jarvis_491e_a83f_6c7a_8406_a50a_c1a4_0db8_9399',
   LANG: process.env.LANG || 'EN',
   AUTO_REACTION: process.env.AUTO_REACTION || 'true',
   HANDLERS: process.env.HANDLER  || 'null',
